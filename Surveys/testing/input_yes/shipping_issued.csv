@@ -1,0 +1,34 @@
+Vitel Mobile Inc,,,,,,,,
+Sales Order Summary,,,,,,,,
+Date Range: 01/01/2025 - 06/30/2026,,,,,,,,
+ ,,,,,,,,
+SO #,Customer,Sales Person,Date Issued,,Status,Ordered,Shipped,Remaining
+Main,,,,,,,,
+166997 N,MYK Trading Inc,Ricardo,03/31/2026,,Issued,-$ 16.00,$ 0.00,-$ 16.00
+ - SAMSUNG S26 ULTRA 512GB,,,2,ea,Entered,-$ 16.00,$ 0.00,-$ 16.00
+168045,VEDA TELECOM FZCO,Alan,05/14/2026,,Issued,"$ 59,375.00",$ 0.00,"$ 59,375.00"
+SM A175FLBFGTO - SAMSUNG GALAXY A17 4+128GB LIGHT BLUE,,,70,ea,Entered,"$ 8,750.00",$ 0.00,"$ 8,750.00"
+SM A175FZKFGTO - SAMSUNG GALAXY A17 4+128GB BLACK,,,360,ea,Entered,"$ 45,000.00",$ 0.00,"$ 45,000.00"
+SM A175FZAFGTO - SAMSUNG GALAXY A17 4+128GB GRAY,,,45,ea,Entered,"$ 5,625.00",$ 0.00,"$ 5,625.00"
+168095,GSM DEPOT USA LLC,Ricardo,05/15/2026,,Issued,"$ 114,000.00",$ 0.00,"$ 114,000.00"
+SM X133NZAAL15 - SAMSUNG GALAXY TAB A11 WIFI 4+64GB GRAY,,,"1,200",ea,Entered,"$ 114,000.00",$ 0.00,"$ 114,000.00"
+168109,Comercializadora Chimbal SA DE CV,Ricardo,05/15/2026,,Issued,"$ 54,125.00",$ 0.00,"$ 54,125.00"
+SM A175FZKFGTO - SAMSUNG GALAXY A17 4+128GB BLACK,,,433,ea,Entered,"$ 54,125.00",$ 0.00,"$ 54,125.00"
+168125,UNNU Spot International LLC,Alan,05/18/2026,,Issued,"$ 211,250.00",$ 0.00,"$ 211,250.00"
+SM A175FZAFGTO - SAMSUNG GALAXY A17 4+128GB GRAY,,,540,ea,Entered,"$ 67,500.00",$ 0.00,"$ 67,500.00"
+SM A175FZKFGTO - SAMSUNG GALAXY A17 4+128GB BLACK,,,"1,000",ea,Entered,"$ 125,000.00",$ 0.00,"$ 125,000.00"
+SM A175FLBFGTO - SAMSUNG GALAXY A17 4+128GB LIGHT BLUE,,,150,ea,Entered,"$ 18,750.00",$ 0.00,"$ 18,750.00"
+168140,Organizacion Miguel Andres Brito Nuñez,Alan,05/19/2026,,Issued,"$ 56,500.00",$ 0.00,"$ 56,500.00"
+SM A165MZKDTPA - SAMSUNG GALAXY A16 4+128GB BLACK,,,240,ea,Entered,"$ 27,120.00",$ 0.00,"$ 27,120.00"
+SM A165MZADTPA - SAMSUNG GALAXY A16 4+128GB GRAY,,,160,ea,Entered,"$ 18,080.00",$ 0.00,"$ 18,080.00"
+SM A165MLGDTPA - SAMSUNG GALAXY A16 4+128GB LIGHT GREEN,,,100,ea,Entered,"$ 11,300.00",$ 0.00,"$ 11,300.00"
+,,,,,Sub Total: ,"$ 495,234.00",$ 0.00,"$ 495,234.00"
+Others 2,,,,,,,,
+159779 - S.,RIO WIRELESS.,Ricardo,05/14/2025,,Issued,$ 800.00,$ 0.00,$ 800.00
+Service Fee - Correcting Invoice #159779 - S $40.00 X 20 UNITS,,,1,ea,Entered,$ 800.00,$ 0.00,$ 800.00
+,,,,,Sub Total: ,$ 800.00,$ 0.00,$ 800.00
+Ricardo,,,,,,,,
+159031,MYK Trading Inc,Ricardo,04/15/2025,,Issued,$ 500.00,$ 0.00,$ 500.00
+Service Fee - Price adjustment from #159008 4pcs s25 ultra  x $125,,,1,ea,Entered,$ 500.00,$ 0.00,$ 500.00
+,,,,,Sub Total: ,$ 500.00,$ 0.00,$ 500.00
+,,,,,Grand Total: ,"$ 496,534.00",$ 0.00,"$ 496,534.00"
